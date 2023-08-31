@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @maxillectapps
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Angular js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently working on Node js,Angular, React js, Next js, Laravel, Flutter React Native
+- 💞️ I’m looking to collaborate on enterprise projects
+- 📫 React me via skype gurpreet_gippy
 
 <!---
 maxillectapps/maxillectapps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
