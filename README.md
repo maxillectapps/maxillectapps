@@ -5,8 +5,8 @@
 👨‍💻 I'm Gary, a versatile Fullstack developer with a knack for creating robust mobile, web, and desktop applications. With a Bachelor's in Computer Science and extensive experience in Dart, Java, and JavaScript, I bring innovative solutions to the tech world.
 
 🎓 Education: Bachelor in Computer Science, CDLU                                                    
-📧 Email: maxillect@gmail.com                                                              
-📱 Phone: +91-9854022220                                                  
+📧 Email: gary.official92@gmail.com                                                              
+📱 Phone: +91-8896600022                                                  
 
 ### Skills
 
