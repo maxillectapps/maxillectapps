@@ -12,8 +12,8 @@
 
 🚀 Flutter & Dart: Expert in mobile/web/desktop app development.                                    
 🖼️ UI/UX: Figma design.                                                                        
-🔧 Back End: Proficient in Dart Frog and Shelf.                                    
-🖥️ Front End: Flutter, React, Next.js.                                                                        
+🔧 Back End: Proficient in Nodejs , Laravel.                                    
+🖥️ Front End: Flutter, React, Next.js , Angular .                                                                        
 🛠️ Programming: Java, Dart, Python, HTML/CSS, JavaScript, SQL, Git.                                    
 ☁️ Cloud Tech: AWS, Google Cloud, Firebase, Supabase, Amplify.                              
 
